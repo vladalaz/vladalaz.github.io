@@ -1,8 +1,6 @@
 body {
     margin: 0;
     background-image: url("Assets/Background.png");
-    height:auto
-    max-width:720px
 }
 h1 {
     color:#653c24;

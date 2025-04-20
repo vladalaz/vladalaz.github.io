@@ -10,4 +10,4 @@ categories: jekyll update
 
 Photo by Boris Manev:
 
-<a href="https://www.pexels.com/photo/red-orange-and-green-printed-eggs-screenshot-998708/">https://www.pexels.com/photo/red-orange-and-green-printed-eggs-screenshot-998708/</a>
+[https://www.pexels.com/photo/red-orange-and-green-printed-eggs-screenshot-998708/](https://www.pexels.com/photo/red-orange-and-green-printed-eggs-screenshot-998708/)

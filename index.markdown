@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![profilna](/assets/home/Profilna.jpg)

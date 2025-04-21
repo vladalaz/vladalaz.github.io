@@ -39,3 +39,11 @@ $$x_1,_2 = -\frac{b}{2a}\pm\frac{\sqrt{b^2-4ac}}{2a}$$
 $$x_1,_2 = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 Овим је поступак решавања завршен.
+
+Copyright [2025] [Vladimir Lazarević]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0

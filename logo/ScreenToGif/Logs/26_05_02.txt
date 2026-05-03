@@ -1,0 +1,36 @@
+► Title - 
+	Impossible to detect screen DPI.
+♦ [Version] Date/Hour - 
+	[2.43.1] 05/02/2026 23:25:56
+▬ Message - 
+	Unable to load DLL 'Shcore.dll' or one of its dependencies: Nije bilo moguće pronaći navedeni modul. (0x8007007E)
+○ Type - 
+	System.DllNotFoundException
+▲ Source - 
+	ScreenToGif.Native
+▼ TargetSite - 
+	IntPtr GetDpiForMonitor(IntPtr, ScreenToGif.Domain.Enums.Native.DpiTypes, UInt32 ByRef, UInt32 ByRef)
+♠ StackTrace - 
+   at ScreenToGif.Native.External.ShCore.GetDpiForMonitor(IntPtr hmonitor, DpiTypes dpiType, UInt32& dpiX, UInt32& dpiY)
+   at ScreenToGif.Native.Helpers.MonitorHelper.ParseMonitor(IntPtr monitorHandle, IntPtr hdc) in R:\Source\ScreenToGif\ScreenToGif.Util\Native\Monitor.cs:line 71
+
+----------------------------------
+
+► Title - 
+	Impossible to detect screen DPI.
+♦ [Version] Date/Hour - 
+	[2.43.1] 05/02/2026 23:34:52
+▬ Message - 
+	Unable to load DLL 'Shcore.dll' or one of its dependencies: Nije bilo moguće pronaći navedeni modul. (0x8007007E)
+○ Type - 
+	System.DllNotFoundException
+▲ Source - 
+	ScreenToGif.Native
+▼ TargetSite - 
+	IntPtr GetDpiForMonitor(IntPtr, ScreenToGif.Domain.Enums.Native.DpiTypes, UInt32 ByRef, UInt32 ByRef)
+♠ StackTrace - 
+   at ScreenToGif.Native.External.ShCore.GetDpiForMonitor(IntPtr hmonitor, DpiTypes dpiType, UInt32& dpiX, UInt32& dpiY)
+   at ScreenToGif.Native.Helpers.MonitorHelper.ParseMonitor(IntPtr monitorHandle, IntPtr hdc) in R:\Source\ScreenToGif\ScreenToGif.Util\Native\Monitor.cs:line 71
+
+----------------------------------
+

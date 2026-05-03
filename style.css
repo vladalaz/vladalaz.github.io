@@ -1,0 +1,21 @@
+body {
+    background-image: url("background/image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:cursive;
+}
+#dole-levo {
+    position:fixed;
+    bottom:10px;
+    left:10px;
+    text-decoration:underline;
+    color:indianred;
+    font-size:0.8em;
+}
+.container {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	height:100vh;
+}
